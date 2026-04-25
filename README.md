@@ -2,9 +2,6 @@
 
 A fast, cross-platform CLI network scanner that discovers online hosts via ICMP ping. Zero external dependencies — pure Python stdlib.
 
-```
-
-
 ---
 
 ## Features
